@@ -14,3 +14,5 @@
 - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [x] Further customize and style the card
 - [ ] Add a button that will toggle hiding and showing the answer choices
+
+<img src="https://user-images.githubusercontent.com/60219532/75075182-3f944f80-54cb-11ea-9f60-610cb72639d3.gif" width="200" height="400" /> 
